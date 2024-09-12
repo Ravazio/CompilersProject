@@ -1,0 +1,9 @@
+programa meuPrograma
+    declare n,o,t : real;
+    declare u,s,e,d : text;
+    inicio
+    
+    escreva("Verifica as variaveis nao utilizadas e solta um warning");
+    
+    fim
+fimprog

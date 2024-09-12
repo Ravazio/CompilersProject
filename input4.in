@@ -1,0 +1,14 @@
+programa meuPrograma
+    declare a,b,c: number;
+    
+    inicio
+    
+    escreva("O value de todos deve ser 2.0");
+    
+    a := 1 + 2*1 -1;
+    b := 1 + 2/2/1;
+    c := 2/1 - 3 + 3/1;
+    
+    
+    fim
+fimprog

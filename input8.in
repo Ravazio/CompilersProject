@@ -1,0 +1,11 @@
+programa meuPrograma
+    declare m : real;
+    inicio
+    
+    escreva("Verifica se Variavel foi Previamente declarada");
+    leia(m);
+    leia(a);
+
+    
+    fim
+fimprog

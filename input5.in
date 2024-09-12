@@ -1,0 +1,14 @@
+programa meuPrograma
+    declare a: number;
+    declare x: text;
+    
+    inicio
+    
+    escreva("Atribuicoes correspondentes em value");
+    
+    a := 1 + 2*1 -1;
+    x := "String as Expected";
+    
+    
+    fim
+fimprog

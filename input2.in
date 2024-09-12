@@ -1,0 +1,29 @@
+programa meuPrograma
+    declare a: number;
+    declare x: text;
+    declare m: real;
+    inicio
+    
+    a := 1;
+    x := "String";
+    m := 3.14;
+    
+    se (a > 5) 
+    	entao
+        	escreva("maior que 5");
+        fimEntao
+    senao
+    	entao
+        	escreva("menor que 5");
+    	fimEntao
+    fimse
+    
+    se (m >= 0) 
+    	entao
+       		escreva("m positivo");
+       	fimEntao
+    fimse
+    
+    
+    fim
+fimprog

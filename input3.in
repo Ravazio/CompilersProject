@@ -1,0 +1,24 @@
+programa meuPrograma
+    declare a: number;
+    declare x: text;
+    declare m: real;
+    inicio
+    
+    a := 1;
+    x := "String";
+    m := 3.14;
+    
+    enquanto(a > 4){
+        escreva("2");
+    }
+    leia(x);
+    
+    faca
+    {
+    escreva(x);
+    
+    }enquanto(a < 2)
+    
+    fimDW
+    fim
+fimprog

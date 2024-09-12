@@ -1,0 +1,11 @@
+programa meuPrograma
+    declare a : number;
+    declare x : text;
+    declare m : real;
+    inicio
+    
+    a := 1;
+    x := "String";
+    m := 3.14;
+    fim
+fimprog

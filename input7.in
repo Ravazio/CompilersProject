@@ -1,0 +1,10 @@
+programa meuPrograma
+    declare m : real;
+    inicio
+    
+    escreva("Aceita numeros Reais");
+    m := 3.1415926535897932;
+
+    
+    fim
+fimprog
