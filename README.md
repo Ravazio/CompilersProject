@@ -104,5 +104,7 @@ Link para o video da explicação no Youtube: https://youtu.be/sK-w19HRX5M
 ## Autores
 
 Joel da Silva Junior 
+
 Victor Finotti Pássaro
+
 Victor Ravazio de Lima
