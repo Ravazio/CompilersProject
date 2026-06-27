@@ -98,15 +98,11 @@ Arquivo.in -> Lexer ANTLR -> Parser ANTLR -> Análise semântica -> AST/Program 
 
 Este projeto foi desenvolvido como trabalho da disciplina **Compiladores e Interpretadores** da **UFABC**, com foco na construção de um compilador educacional capaz de traduzir uma linguagem fonte simplificada para Java. O projeto demonstra conceitos clássicos de compiladores, como análise léxica, análise sintática, tabela de símbolos, checagem semântica e geração de código.
 
+Link para o video da explicação no Youtube: https://youtu.be/sK-w19HRX5M
+![Critérios atingidos da Checklist](https://github.com/user-attachments/assets/0f8975be-5cfa-4f6f-b12d-3bdb2b53a09b)
 
 ## Autores
 
 Joel da Silva Junior 
 Victor Finotti Pássaro
 Victor Ravazio de Lima
-
-Projeto desenvolvido para a disciplina de Compiladores e Interpretadores da UFABC, ministrada pelo professor Francisco Isidro Massetto. 
-Ele contém um compilador desenvolvido baseado no ANTLR que converte uma liguagem fonte para JAVA.
-
-Link para o video da explicação no Youtube: https://youtu.be/sK-w19HRX5M
-![Critérios atingidos da Checklist](https://github.com/user-attachments/assets/0f8975be-5cfa-4f6f-b12d-3bdb2b53a09b)
